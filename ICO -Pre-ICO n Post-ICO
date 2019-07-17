@@ -1,29 +1,4 @@
-Skip to content
- 
-Search or jump to…
 
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@Ashadipta 
-1
-0 0 saundaryacool/Tander_Token_contract
- Code  Issues 0  Pull requests 0  Projects 0  Wiki  Security  Insights
-Smart Contract For Pre-ICO & ICO .
- 2 commits
- 1 branch
- 0 releases
- 1 contributor
-@saundaryacool
-saundaryacool Create smart_contract_v1
-Latest commit 285da82  on 2 Apr 2018
-Type	Name	Latest commit message	Commit time
-README.md	Create README.md	last year
-smart_contract_v1	Create smart_contract_v1	last year
- README.md
-Tander_Token_contract
 Smart Contract For Pre-ICO & ICO .
 
 pragma solidity 0.4.21;
@@ -290,15 +265,3 @@ function drain() external onlyOwner {
 }
 
 © 2019 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-
