@@ -1,9 +1,14 @@
 pragma solidity >=0.4.21 <0.6.0;
 
+//Define the contract
+
+
 contract Migrations {
   address public owner;
   uint public last_completed_migration;
+
 // Define constructor
+  
   constructor() public {
     owner = msg.sender;
   }
